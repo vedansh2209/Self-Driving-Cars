@@ -4,9 +4,9 @@
 <a href="https://github.com/qiaoxu123/Self-Driving-Cars/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/qiaoxu123/Self-Driving-Cars"></a>
 
 
-# Notes
+# NOTE
 
-for China, downloading is so slow, so i transfer this repo to Coding.net. So i suggest you turn to this link and git clone, maybe helps a lot.
+for China, downloading is much slow, so i transfer this repository to Coding.net. So i suggest you turn to this link and git clone, It may helps a lot.
 
 [link](https://qiaoxu.coding.net/p/Self-Driving-Cars)
 
